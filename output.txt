@@ -1,0 +1,11 @@
+Executing script: C:\Users\akars\quest\list_iteration.py
+Script arguments: Duke,Ruby,Dottie,Snake,Joe
+Output:
+These are the names on my people list:
+1. C:\Users\akars\quest\list_iteration.py
+2. Duke
+3. Ruby
+4. Dottie
+5. Snake
+6. Joe
+
